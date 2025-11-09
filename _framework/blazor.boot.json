@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "demo-spa-blazor",
   "resources": {
-    "hash": "sha256-xoBMI+ZJUop5ouojXVHkVOa5weInK69qZ1ZYQBvVsY0=",
+    "hash": "sha256-ntpU/y5i9kE2CdxCcWC7xKm+jLt6Vi/eSqRpJTApDgc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "demo-spa-blazor.wasm": "sha256-BHbbwl1BlGTBUTpfouWSkpbqj5swSF4bWNG8OXnmuTM=",
+      "demo-spa-blazor.wasm": "sha256-g5ZliyTdpFrR8H+UUlHX8tHjlRLDfC725KceK7PmTeI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-H5/aqxlfhUmbXB/dFf/4C2QlXOnn7Wmw0eQFJmypRyw=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-V+jsLisePm+esnsNKLegcNmuyBtOWLBEMU2y6b3DOHY=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-GNCNRDpP0vB3TcxbQZZqnWHaSFHfrlTQb5DGsLTSmKA=",
